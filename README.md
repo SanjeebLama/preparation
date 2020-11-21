@@ -1,2 +1,0 @@
-# preparation
-FrontEnd Practice
