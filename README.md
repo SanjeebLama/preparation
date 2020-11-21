@@ -1,2 +1,2 @@
-# preperation
+# preparation
 Consists of web design
